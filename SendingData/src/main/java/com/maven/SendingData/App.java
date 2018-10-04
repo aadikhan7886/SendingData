@@ -52,5 +52,6 @@ public class App {
 		System.out.println("Retrieving data from ORACLE");
 		Employee e2 = (Employee) s2.get(Employee.class, 4);
 		System.out.println(e2);
+		System.out.println(e2);
 	}
 }
